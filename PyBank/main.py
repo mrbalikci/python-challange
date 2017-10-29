@@ -1,8 +1,6 @@
 '''
 
-## Option 1: PyBank
-
-![Revenue](Images/revenue-per-lead.jpg)
+PyBank Project
 
 Python script for analyzing the financial records of a company. Two sets of revenue data:
 
@@ -24,7 +22,6 @@ The task is to create a Python script that analyzes the records to calculate eac
 
 * The greatest decrease in revenue (date and amount) over the entire period
 
-As an example, your analysis should look similar to the one below:
 
 '''
 

@@ -18,8 +18,6 @@ The task task is to create a Python script that analyzes the votes and calculate
 
 * The winner of the election based on popular vote.
 
-As an example, your analysis should look similar to the one below:
-
 '''
 
 
